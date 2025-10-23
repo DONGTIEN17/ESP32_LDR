@@ -11,4 +11,4 @@ Khi trời tối (giá trị LDR dưới ngưỡng), đèn LED sẽ tự động
 
 Dưới đây là ảnh chụp màn hình đồ thị khi che/mở cảm biến LDR:
 
-![Đồ thị LDR và trạng thái LED](1.png)
+![Đồ thị LDR và trạng thái LED](picture/1.png)
